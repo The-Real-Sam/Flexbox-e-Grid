@@ -17,7 +17,7 @@
 * Utilização da função repeat;
 * Alterar posição de elementos com grid-row e grid-column;
 
-# Main covered tópics:
+# Main covered topics:
 
 * Concept and use of flex-container;
 * Using justify-content and align-items properties;
